@@ -2,7 +2,7 @@ name: Continuous Integration
 on:
   push:
     branches:
-      - master
+      - main
                        # Will make the workflow run every time you push to master
 
 jobs:
